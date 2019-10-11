@@ -1,0 +1,29 @@
+{
+  "name": "create-react-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint src"
+  },
+  "bin": {
+    "create-react-cli": "./bin/www"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^0.19.0",
+    "colors": "^1.4.0",
+    "commander": "^3.0.2",
+    "download-git-repo": "^2.0.0",
+    "eslint": "^6.5.1",
+    "eslint-plugin-react": "^7.16.0",
+    "fs": "0.0.1-security",
+    "husky": "^3.0.8",
+    "inquirer": "^7.0.0",
+    "ora": "^4.0.2",
+    "path": "^0.12.7"
+  }
+}
