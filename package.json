@@ -8,7 +8,7 @@
     "lint": "eslint src"
   },
   "bin": {
-    "create-react-cli": "./bin/www"
+    "create-react-cli": "./bin/index.js"
   },
   "keywords": [],
   "author": "",
